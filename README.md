@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katnaps
-- 👀 I’m interested in web development
+- 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning javascript, nodejs & mongoDB
 - 📫 How to reach me ...
 
